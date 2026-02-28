@@ -1,0 +1,10 @@
+site_name: Chem Tutor Bot Knowledge Base
+
+theme:
+  name: material
+
+plugins:
+  - awesome-pages
+
+extra:
+  generator: false

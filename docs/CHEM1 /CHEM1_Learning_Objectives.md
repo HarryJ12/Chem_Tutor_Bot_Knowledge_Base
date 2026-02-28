@@ -1,0 +1,188 @@
+# Chemistry I Learning Objectives / Study Guide  
+
+### Chapter 1 - Essential Ideas  
+- Define and identify atoms, elements, molecules, and compounds  
+- Define matter and list the characteristics of the three main states of matter: solid, liquid, and gas  
+- Differentiate between mixtures and pure substances  
+- Classify a mixture as heterogeneous or homogeneous  
+- Identify properties of and changes in matter as physical or chemical  
+- State and provide examples of the law of conservation of mass  
+- Identify the base SI units for mass (kg), length (m), temperature (K), time (s), and amount of a substance (mol)  
+- Select the correct SI unit prefix  
+- Apply the SI unit metric prefixes to adjust measurements to the appropriate scale  
+- Convert between Celsius, and Kelvin temperature scales  
+- Use unit equivalence conversion factors to convert units given to units required  
+- Report the correct number of digits for a particular measuring device  
+- Identify the estimated digit in a measurement  
+- Determine the number of significant figures in a given value  
+- Use significant figures in calculations (and all calculations going forward)  
+- Use numbers with derived units such as density (g/mL, g/cm$^3$) in calculations and as conversion factors  
+- Use dimensional analysis to solve multi-step problems or conversions  
+- Rearrange algebraic equations to solve for unknown variables  
+
+### Chapter 2 - Atoms, Molecules, and Ions  
+- Identify the location of electrons, protons, and neutrons in atoms and describe their physical properties such as relative size and charge  
+- Use the mass number ($A$), the atomic number ($Z$) and the charge to determine the number of electrons, protons and neutrons in an atom or ion  
+- Define isotope and explain the difference between the various isotopes of a given element  
+- Write isotope notation  
+- Define ion, anion, and cation  
+- Explain how ions are formed from elements  
+- Calculate the average atomic mass of an element given the isotope masses and relative natural abundance of each of its naturally occurring isotopes  
+- Describe the difference between mass number ($A$) and the average atomic mass  
+- Empirical/molecular/structural formula  
+- Define the term structural isomer  
+- Define a mole in terms of Avogadro’s number  
+- Describe the relationship between mass and count of objects such as atoms  
+- Explain the difference between atomic mass scale (amu) and molar mass (g/mol) and use each appropriately in calculations  
+- Convert between moles and mass using molar mass  
+- Convert between moles and individual number of atoms, molecules, or other species using Avogadro’s number  
+
+### Chapter 3 - Electronic Structure and Periodic Properties of Elements  
+- Describe properties of waves including wavelength, frequency, and amplitude  
+- Calculate the energy, wavelength, or frequency of light given one of these values  
+- Rank major types of electromagnetic radiation (Radio, Microwave, Infrared, UV, X-ray, Gamma ray) based on wavelength, frequency, and energy  
+- Explain interference and diffraction and how they demonstrate the wave nature of light  
+- Define the term photon  
+- Explain the difference between the behavior of particles and the behavior of waves  
+- Describe the photoelectric effect in terms of incoming photon energy, minimum frequency of radiation to eject an electron, and kinetic energy of the ejected electron  
+- Explain the importance of this experiment to the development of quantum theory  
+- Describe how the Bohr model explains the emission spectrum of hydrogen  
+- Calculate the de Broglie wavelength of a particle and explain the relevance of the de Broglie hypothesis in regard to how electrons may behave as waves as opposed to particles  
+- Describe evidence photons and electrons, even when viewed as streams of particles, still display wave-behavior through diffraction and interference patterns in a double‐slit experiment  
+- Relate the complementarity of position and velocity through Heisenberg’s uncertainty principle  
+- State the similarities and differences in classical and quantum-mechanical concepts of trajectory  
+- Explain the relevance of the Heisenberg uncertainty principle to the theoretical structure of atomic orbitals  
+- Define orbital and wave function  
+- Recognize probability functions for electron density define the shape of atomic orbitals  
+- Draw the shapes of the s, p and d orbitals  
+- Recognize that the quantum numbers come from solutions to the Schrödinger equation and that the quantum number $n$ determines the orbital energy and size, $l$ determines the orbital shape, $m_l$ determines the orbitals orientation in space, $m_s$ determines the electron spin within the orbital  
+- Arrange an atom’s atomic orbitals based upon energy levels  
+- Calculate the energy difference for electron transitions between principal quantum levels in the hydrogen atom with an emphasis on those associated with visible light (Balmer lines)  
+- Describe how atomic spectroscopy defines the energy levels of electrons in the hydrogen atom  
+- Define node. Explain the significance of nodes in atomic orbitals  
+- Identify periods as rows and groups as columns on the periodic table  
+- Explain the periodic law - arranging elements by atomic number results in strong correlation with elemental properties  
+- Describe the general principles of electron shielding  
+- Define the Pauli exclusion principle, Hund’s rule and the Aufbau principle  
+- Use the Aufbau principle, Hund’s rule and the Pauli exclusion principle to determine the electron configuration of an atom (both the full electron configuration and the shorthand version using the previous inert gas configuration)  
+- Use the Aufbau principle, Hund’s rule and the Pauli exclusion principle to draw electron orbital diagrams as a function of energy  
+- Identify the s, p, d, and f blocks of the periodic table  
+- Use the periodic table to predict electron configurations  
+- Distinguish between core and valence electrons and describe the importance of valence electrons to chemical properties and reactivities  
+- Use the location of an element in the periodic table to predict if it is a metal, a non metal or a metalloid  
+- List some of the characteristics of metals, nonmetals, and metalloids (i.e., conductivity, appearance, reactivity)  
+- Identify main‐group and transition elements on the periodic table  
+- Relate valence electrons with similar properties of elements in specific groups: noble gases, alkali metals, alkaline earth metals, and halogens  
+- Explain the rationale for elements that form ions with predictable charges  
+- Define effective nuclear charge, atomic radius, ionization energy, and electron affinity  
+- Be able to write proper chemical equations representing electron affinity and ionization energy  
+- Predict differences in effective nuclear charge, atomic radius, ionization energy, and electron affinity between elements using periodic trends  
+- Use the ideas of screening and effective nuclear charge to explain the trends for atomic radius  
+- Predict the charge of an ion formed from a main group element  
+- Determine the electron configurations of ions of main group and d-block elements  
+- Predict the sizes of ions relative to atoms of the same element  
+- Define isoelectronic species and arrange a series of isoelectronic species according to ionic/atomic radius  
+
+### Chapter 4 - Molecules and Compounds  
+- Explain how potential energy is related to the formation of chemical bonds  
+- Draw Lewis dot symbols of elements and ions  
+- Define ionic and covalent bonding and provide examples of compounds that contain each type of bond  
+- Compare and contrast the properties of ionic and covalent compounds. For example: ionic compounds are composed of formula units as a part of a lattice structure and not discrete molecules  
+- Use Coulomb's law to explain the lattice energy and melting point of an ionic compound  
+- Describe the Lewis theory of bonding including the octet rule  
+- Draw simple Lewis structures of ionic and covalent compounds containing main‐group elements  
+- Identify and draw covalent compounds with single, double, and triple bonds between constituent atoms  
+- Use nomenclature rules to name ionic compounds and binary covalent compounds  
+- Name polyatomic ions and know their formulas and charges  
+- Identify the two types of acids: binary acids and oxyacids  
+- Name binary acids and oxyacids  
+- Define the term electronegativity  
+- Predict relative electronegativity of atoms based on their position on the periodic table  
+- Predict whether a bond will be covalent, polar covalent, or ionic based on electronegativity differences  
+- Define the terms dipole moment and partial charge  
+- Determine the polarity of a bond based on differences in electronegativity  
+- Draw Lewis structures, including resonance structures, for molecules and complex ions including species that do not follow the octet rule (electron deficient, expanded octet and radicals)  
+- Calculate formal charge for the atoms in a Lewis structure  
+- Explain why period 1 and period 2 atoms cannot exceed the octet rule  
+- Explain why period 3 atoms and beyond can exceed the octet rule  
+- Define bond energy (Chp 9)  
+- Describe the inverse relationship between bond length and bond strength (Chp 9)  
+- State the five basic shapes the valence-shell electron-pair repulsion (VSEPR) model yields according to the number of electron groups surrounding a central atom  
+- Identify the bond angles for each basic shape  
+- Describe the difference between a molecule’s electron geometry and molecular geometry  
+- Recognize the difference between axial and equatorial positions in trigonal bipyramidal molecules  
+- Predict the positions in trigonal bipyramidal molecules that are occupied by lone pairs of electrons  
+- Predict deviations from ideal bond angles due to the presence of lone pairs  
+- Identify the different molecular geometries that arise from tetrahedral, trigonal bipyramidal, and octahedral electron geometries  
+- Predict and draw the electron and molecular geometries for molecules, including molecules with more than one central atom  
+- Identify polar bonds in molecules based on difference in EN  
+- Identify molecules as polar or nonpolar  
+
+### Chapter 5 - Advanced Theories of Bonding  
+- Describe how the hybridization of orbitals in valence bond theory (VBT) occurs through combining atomic orbitals (using electron wave functions) to create an equal number of new hybrid orbitals each with the same shape but with different orientations in space  
+- Identify the common types of hybridization (sp$^3$, sp$^2$, and sp) and associated geometries  
+- Identify the hybridizations for expanded octets (sp$^3$d and sp$^3$d$^2$) and associated geometries  
+- Predict the hybridization of the central atom(s) in a molecule using valence bond theory (VBT)  
+- Draw and label each orbital involved in sigma ($\sigma$) bonding or containing lone pairs using the hybrid orbitals obtained from VBT to represent the orbital overlap forming the bonds in molecules  
+- Draw the overlap of p orbitals to represent the pi ($\pi$) bonding in VBT for molecules containing double and triple bonds  
+- Draw pictures to represent how atomic orbitals combine in molecular orbital (MO) theory to form bonding and anti-bonding molecular orbitals for diatomic molecules (include all nodal planes)  
+- Explain how the formation of bonding and anti-bonding molecular orbitals originate through the constructive and destructive interference of electron waves (MO theory)  
+- Use molecular orbital diagrams to determine bond order and the number of unpaired electrons for homo-nuclear diatomic molecules (MO theory)  
+- Use molecular orbital diagrams to predict if a molecule will be paramagnetic or diamagnetic (MO theory)  
+- Explain how the valence bond theory (VBT) model and molecular orbital (MO) theory model differ in approach (localized versus delocalized electrons)  
+
+### Chapter 6 - Composition of Substances and Solutions  
+- Calculate formula masses for covalent and ionic compounds  
+- Calculate the percent composition by mass  
+- Calculate the molar or formula mass of a compound  
+- Determine the empirical formula of a compound from percent composition  
+- Use the empirical formula and molar mass to determine the molecular formula of a compound  
+- Define solution, solvent, solute, aqueous solution, and molarity  
+- Calculate the molarity of a solution (concentration in mol/L)  
+- Use molarity as a conversion factor in calculating numbers of moles and volumes of solution  
+- Perform computations relating a solution’s concentration and its components’ volumes and/or masses using molarity  
+
+### Chapter 7 - Stoichiometry of Chemical Reactions  
+- Balance chemical equations by changing stoichiometric coefficients  
+- Write chemical equations from written statements describing a reaction  
+- Identify physical states of reactants and products in a chemical equation  
+- Write balanced molecular, ionic, and net ionic equations based on a written description of the reaction  
+- Define and identify spectator ions  
+- Differentiate between soluble and insoluble substances  
+- Use solubility guidelines to determine if a product will precipitate  
+- Classify acids and bases as weak or strong based on their ability to form ions in water  
+- Write the balanced neutralization reaction between an acid and a base  
+- Use a balanced chemical reaction to calculate the mole relationships between components  
+- Determine the amount of reactant required or product formed using stoichiometry  
+- Calculate the mass of a reactant needed to produce a certain mass of product  
+- Calculate the mass of a product formed from a certain mass of reactant  
+- Calculate reaction component amounts using volume, moles, concentration, and stoichiometry  
+- Identify the limiting reactant in a reaction using initial reactant masses and theoretical yield  
+- Predict the theoretical yield of a reaction  
+- Find the percent yield of a reaction  
+- Define the equivalence point of a titration  
+- Use solution stoichiometry and equivalence point to calculate the concentration of an unknown in a titration  
+- Define combustion as reaction with oxygen to form one or more oxygen containing compounds  
+- Calculate the mass of the reactant in excess  
+
+### Chapter 8 - Gases  
+- Describe the properties of gases  
+- Conduct unit conversions among all pressure units  
+- Use the ideal gas law to derive the relationship between  
+  - Pressure and volume (Boyle’s Law)  
+  - Volume and temperature (Charles Law)  
+  - Volume and moles (Avogadro’s Law)  
+- Use the ideal gas law for calculations involving $T$, $P$, $V$, $n$ and molar mass  
+- Use the gas constant, $R$, in calculations  
+- Define the standard temperature and pressure (STP) and molar volume at STP  
+- Use the ideal gas law to determine density  
+- State Dalton’s Law of Partial Pressures in words or symbols  
+- Define mole fraction  
+- Perform gas mixture calculations using Dalton’s Law of Partial Pressures and mole fractions  
+- Perform stoichiometric calculations for reactions with gaseous reactants and/or products  
+- Describe the difference between diffusion and effusion  
+- Understand the relationship between effusion and molecule mass  
+- Use molar masses to calculate relative rates of effusion of gases (Graham’s Law)  
+- List the assumptions of the kinetic molecular theory of gases  
+- Differentiate between ideal and non-ideal gases  
+- List factors that may cause a gas to deviate from ideal behavior
